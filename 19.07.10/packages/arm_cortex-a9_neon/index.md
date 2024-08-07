@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / [19.07.10](/releases/19.07.10/) / [packages](/releases/19.07.10/packages/) / arm_cortex-a9_neon
+# [archive](/archive/) / [19.07.10](/archive/19.07.10/) / [packages](/archive/19.07.10/packages/) / arm_cortex-a9_neon
 
 
 | Name | Size | Date |

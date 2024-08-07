@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / [21.02.1](/releases/21.02.1/) / [targets](/releases/21.02.1/targets/) / [imx6](/releases/21.02.1/targets/imx6/) / [generic](/releases/21.02.1/targets/imx6/generic/) / packages
+# [archive](/archive/) / [21.02.1](/archive/21.02.1/) / [targets](/archive/21.02.1/targets/) / [imx6](/archive/21.02.1/targets/imx6/) / [generic](/archive/21.02.1/targets/imx6/generic/) / packages
 
 
 | Name | Size | Date |

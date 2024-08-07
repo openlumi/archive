@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / 
+# [archive](/archive/) / 
 
 | Name | Size | Date |
 |:---|---:|---|

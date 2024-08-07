@@ -18,7 +18,7 @@ layout: default
 var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/releases/search.json',
+  json: '/archive/search.json',
   debounceTime: 200,
   limit: 30
 })

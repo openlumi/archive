@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / [21.02.0](/releases/21.02.0/) / [targets](/releases/21.02.0/targets/) / [imx6](/releases/21.02.0/targets/imx6/) / [generic](/releases/21.02.0/targets/imx6/generic/) / u-boot-xiaomi_dgnwg05lm
+# [archive](/archive/) / [21.02.0](/archive/21.02.0/) / [targets](/archive/21.02.0/targets/) / [imx6](/archive/21.02.0/targets/imx6/) / [generic](/archive/21.02.0/targets/imx6/generic/) / u-boot-xiaomi_dgnwg05lm
 
 
 | Name | Size | Date |

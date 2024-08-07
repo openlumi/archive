@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / 19.07.8
+# [archive](/archive/) / 19.07.8
 
 
 | Name | Size | Date |

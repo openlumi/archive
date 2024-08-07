@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / [21.02.6](/releases/21.02.6/) / targets
+# [archive](/archive/) / [21.02.6](/archive/21.02.6/) / targets
 
 
 | Name | Size | Date |

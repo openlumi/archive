@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / [21.02.0](/releases/21.02.0/) / [targets](/releases/21.02.0/targets/) / imx6
+# [archive](/archive/) / [21.02.0](/archive/21.02.0/) / [targets](/archive/21.02.0/targets/) / imx6
 
 
 | Name | Size | Date |

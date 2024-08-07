@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / [21.02.3](/releases/21.02.3/) / [targets](/releases/21.02.3/targets/) / [imx6](/releases/21.02.3/targets/imx6/) / generic
+# [archive](/archive/) / [21.02.3](/archive/21.02.3/) / [targets](/archive/21.02.3/targets/) / [imx6](/archive/21.02.3/targets/imx6/) / generic
 
 
 | Name | Size | Date |

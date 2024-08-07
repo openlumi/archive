@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / [19.07.10](/releases/19.07.10/) / packages
+# [archive](/archive/) / [19.07.10](/archive/19.07.10/) / packages
 
 
 | Name | Size | Date |

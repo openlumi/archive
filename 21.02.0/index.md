@@ -1,7 +1,7 @@
 ---
 ---
 
-# [releases](/releases/) / 21.02.0
+# [archive](/archive/) / 21.02.0
 
 
 | Name | Size | Date |
